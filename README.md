@@ -15,12 +15,12 @@ $ pip install mechanize
 
 $ pip install bs4
 
-$ git clone https://github.com/GANGSTERR-YAKUZZA/GACOR
+$ git clone https://github.com/GANGSTERR-YAKUZZA/FBVIP
 
 # RUN
 
-$ cd GACOR
+$ cd FBVIP
 
 $ git pull
 
-$ python gas.py
+$ python NanggVIP.py

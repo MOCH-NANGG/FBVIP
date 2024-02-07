@@ -15,7 +15,7 @@ $ pip install mechanize
 
 $ pip install bs4
 
-$ git clone https://github.com/GANGSTERR-YAKUZZA/FBVIP
+$ git clone https://github.com/MOCH-NANGG/FBVIP
 
 # RUN
 
